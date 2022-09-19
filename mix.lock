@@ -1,0 +1,3 @@
+%{
+  "libgraph": {:git, "https://github.com/bitwalker/libgraph.git", "15ff0b9ba8c22a9dfec5bc04096fb7025e58f34b", []},
+}
